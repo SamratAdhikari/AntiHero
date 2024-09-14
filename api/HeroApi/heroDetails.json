@@ -1,0 +1,3166 @@
+[
+    {
+        "name": "Moskov",
+        "image": "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg",
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Chou", "Saber", "Natalia", "Badang", "Ling"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/badang.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/ling.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Balmond", "Akai", "Tigreal", "Zilong", "Layla"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/balmond.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/akai.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/tigreal.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Miya",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Natalia", "Karina", "Hayabusa", "Clint", "Fanny"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karina.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/clint.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Layla", "Bruno", "Bane", "Alucard", "Balmond"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/bruno.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/bane.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alucard.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/balmond.png"
+            ]
+        }
+    },
+    {
+        "name": "Bane",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/bane.png",
+        "role": "Fighter/Mage",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Chou", "Valir", "Martis", "Alucard", "Alpha"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/martis.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alucard.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alpha.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Miya", "Layla", "Nana", "Rafaela", "Sun"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/nana.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/rafaela.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png"
+            ]
+        }
+    },
+    {
+        "name": "Tigreal",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/tigreal.jpg",
+        "role": "Tank",
+        "lane": "Roam",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Nana", "Martis", "Eudora", "Valir", "Baxia"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/nana.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/martis.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/baxia.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Nolan", "Rafaela", "Zilong", "Layla", "Sun"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/09/nolan.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/rafaela.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png"
+            ]
+        }
+    },
+    {
+        "name": "Fredrinn",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/10/fredrinn.png",
+        "role": "Tank/Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["X.Borg", "Karrie", "Valir", "Dyrroth", "Thamuz"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/xborg.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/dyrroth.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/thamuz.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Yve", "Yuzhong", "Lancelot", "Yin", "Aulus"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/yve.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yuzhong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lancelot.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yin.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/aulus.png"
+            ]
+        }
+    },
+    {
+        "name": "Arlott",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/10/Arlott.jpg",
+        "role": "Fighter/Assassin",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Martis", "Chou", "Minsitthar", "Kaja", "Thamuz"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/martis.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kaja.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/thamuz.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Beatrix", "Joy", "Natan", "Xavier", "Fredrinn"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/beatrix.png",
+                "https://mlcounter.com/wp-content/uploads/2023/10/joy.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natan.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/xavier.png",
+                "https://mlcounter.com/wp-content/uploads/2022/10/fredrinn.png"
+            ]
+        }
+    },
+    {
+        "name": "Hayabusa",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+        "role": "Assassin",
+        "lane": "Jungle",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Saber", "Minsitthar", "Natalia", "Kaja", "Chou"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kaja.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Eudora", "Layla", "Gord", "Miya", "Yi Sun-shin"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/gord.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yisunshin.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Chou",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Silvanna", "Martis", "Phoveus", "Minsitthar", "Dyrroth"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/silvanna.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/martis.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/phoveus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/dyrroth.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Clint", "Zilong", "Nana", "Yi Sun-shin", "Natalia"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/clint.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/nana.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yisunshin.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png"
+            ]
+        }
+    },
+    {
+        "name": "Dyrroth",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/dyrroth.png",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Guinevere", "Esmeralda", "Phoveus", "Chou", "Minsitthar"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/guinevere.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/esmeralda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/phoveus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Kagura", "Granger", "Kimmy", "Leomord"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/kagura.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/granger.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kimmy.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/leomord.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hanzo.png"
+            ]
+        }
+    },
+    {
+        "name": "Wanwan",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/wanwan.png",
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Natalia", "Esmeralda", "Lunox", "Kaja", "Lolita"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/esmeralda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lunox.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kaja.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lolita.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Granger", "Guinevere", "Harley", "Lesley", "Gusion"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/granger.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/guinevere.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/harley.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lesley.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Benedetta",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/benedetta.png",
+        "role": "Assassin",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Guinevere", "Khufra", "Phoveus", "Minsitthar", "Kaja"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/guinevere.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/khufra.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/phoveus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kaja.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Luo Yi", "Popol", "Carmilla", "Kimmy", "Vale"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/luoyi.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/popol.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/carmilla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kimmy.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/vale.png"
+            ]
+        }
+    },
+    {
+        "name": "Joy",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/10/joy.jpg",
+        "role": "Assassin",
+        "lane": "Jungle/Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Minsitthar", "Phoveus", "Franco", "Kaja", "Barats"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/phoveus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kaja.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/barats.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Yin", "Valentina", "Natan", "Lesley", "Aulus"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/yin.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valentina.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natan.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lesley.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/aulus.png"
+            ]
+        }
+    },
+    {
+        "name": "Mathilda",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/mathilda.png",
+        "role": "Support/Assassin",
+        "lane": "Roam/Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Baxia", "Franco", "Wanwan", "Vale", "Badang"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/baxia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/wanwan.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/vale.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/badang.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Esmeralda"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/barats.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/brody.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/atlas.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/ling.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/esmeralda.png"
+            ]
+        }
+    },
+    {
+        "name": "Carmilla",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/carmilla.jpg",
+        "role": "Support/Tank",
+        "lane": "Roam",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Harith", "Zilong", "Wanwan", "Baxia", "Sun"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/harith.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/wanwan.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/baxia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Karrie", "Aurora", "Pharsa", "Julian", "Gusion"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png",
+                "https://mlcounter.com/wp-content/uploads/2024/02/aurora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/pharsa.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/julian.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Atlas",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/atlas.png",
+        "role": "Tank",
+        "lane": "Roam",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Valir", "Karrie", "Diggie", "Kaja", "Akai"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/diggie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kaja.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/akai.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Silvanna", "Ling", "Kimmy", "Masha", "Kadita"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/silvanna.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/ling.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kimmy.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/masha.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kadita.png"
+            ]
+        }
+    },
+    {
+        "name": "Barats",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/12/barats.jpg",
+        "role": "Tank/Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["X.Borg", "Karrie", "Esmeralda", "Valir", "Angela"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/xborg.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/esmeralda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/angela.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Khaleed", "Luo Yi", "Badang", "Natalia", "Zhask"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/khaleed.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/luoyi.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/badang.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zhask.png"
+            ]
+        }
+    },
+    {
+        "name": "Popol and Kupa",
+        "image": null,
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Nolan", "Natalia", "Gusion", "Silvanna", "Esmeralda"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/09/nolan.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/silvanna.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/esmeralda.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Kimmy", "Wanwan", "Layla", "Granger", "Zhask"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/kimmy.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/wanwan.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/granger.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zhask.png"
+            ]
+        }
+    },
+    {
+        "name": "Granger",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/granger.png",
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Helcurt", "Selena", "Guinevere", "Gusion", "Saber"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/helcurt.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/selena.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/guinevere.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Esmeralda", "Khufra", "Kimmy", "Claude", "Hanabi"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/esmeralda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/khufra.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kimmy.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/claude.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hanabi.png"
+            ]
+        }
+    },
+    {
+        "name": "Valentina",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/12/valentina.jpg",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Wanwan", "Alice", "Sun", "Gusion", "Kagura"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/wanwan.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alice.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kagura.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Floryn", "Aulus", "Phoveus", "Esmeralda", "Dyrroth"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/05/floryn.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/aulus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/phoveus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/esmeralda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/dyrroth.png"
+            ]
+        }
+    },
+    {
+        "name": "Julian",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/12/julian.jpg",
+        "role": "Fighter/Mage",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Aamon", "Helcurt", "Paquito", "Yu Zhong", "Roger"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/aamon.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/helcurt.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/paquito.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yuzhong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/roger.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Valentina", "Yin", "Mathilda", "Brody", "Yve"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/valentina.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yin.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/mathilda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/brody.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yve.png"
+            ]
+        }
+    },
+    {
+        "name": "Gatotkaca",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/gatotkaca.png",
+        "role": "Tank/Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Eudora", "Karrie", "Dyrroth", "X.Borg", "Yin"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/dyrroth.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/xborg.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yin.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Miya", "Sun", "Balmond", "Bruno", "Layla"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/balmond.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/bruno.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Badang",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/badang.png",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Chou", "Benedetta", "Aldous", "Edith", "Argus"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/benedetta.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/aldous.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/edith.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/argus.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Kimmy", "Hanzo", "Hanabi", "Odette", "Helcurt"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/kimmy.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hanzo.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hanabi.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/helcurt.png"
+            ]
+        }
+    },
+    {
+        "name": "Kadita",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/kadita.png",
+        "role": "Mage/Assassin",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Helcurt", "Natalia", "Minsitthar", "Baxia", "Kaja"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/helcurt.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/baxia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kaja.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Cyclops", "Miya", "Gord", "Balmond"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/cyclops.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/gord.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/balmond.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kimmy.png"
+            ]
+        }
+    },
+    {
+        "name": "Belerick",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/11/belerick.jpg",
+        "role": "Tank",
+        "lane": "Roam",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Dyrroth", "X.Borg", "Karrie", "Martis", "Thamuz"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/dyrroth.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/xborg.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/martis.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/thamuz.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Gusion", "Hayabusa", "Saber", "Eudora", "Nana"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/nana.png"
+            ]
+        }
+    },
+    {
+        "name": "Change",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/change.png",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Saber", "Chou", "Lolita", "Jawhead", "Baxia"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lolita.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/jawhead.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/baxia.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Eudora", "Layla", "Lesley", "Pharsa", "Miya"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lesley.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/pharsa.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Diggie",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/diggie.png",
+        "role": "Support",
+        "lane": "Roam",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Aldous", "Franco", "Fredrinn", "Chip", "Esmeralda"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/aldous.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png",
+                "https://mlcounter.com/wp-content/uploads/2022/10/fredrinn.png",
+                "https://mlcounter.com/wp-content/uploads/2024/01/Chip.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/esmeralda.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Saber", "Aurora", "Hayabusa", "Fanny", "Eudora"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2024/02/aurora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Lesley",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/12/lesley.jpg",
+        "role": "Marksman/Assassin",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Esmeralda", "Harley", "Natalia", "Karina"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/esmeralda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/harley.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/helcurt.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karina.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Karrie", "Cyclops", "Gord", "Layla", "Moskov"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/cyclops.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/gord.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Martis",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/martis.png",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Phoveus", "Kaja", "Franco", "Minsitthar", "Baxia"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/phoveus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kaja.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/baxia.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Zhask", "Pharsa", "Natalia", "Miya", "Helcurt"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/zhask.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/pharsa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/helcurt.png"
+            ]
+        }
+    },
+    {
+        "name": "Hilda",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/hilda.png",
+        "role": "Fighter/Tank",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Karrie", "Dyrroth", "Valir", "Thamuz", "Baxia"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/dyrroth.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/thamuz.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/baxia.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Natalia", "Karina", "Eudora", "Estes", "Moskov"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karina.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/estes.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/moskov.png"
+            ]
+        }
+    },
+    {
+        "name": "Yi Sun-shin",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/yisunshin.jpg",
+        "role": "Assassin/Marksman",
+        "lane": "Jungle",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Karina", "Eudora", "Alucard", "Hayabusa", "Fanny"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/karina.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alucard.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Nana", "Chou", "Zilong", "Rafaela", "Sun"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/nana.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/rafaela.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png"
+            ]
+        }
+    },
+    {
+        "name": "Kagura",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/kagura.png",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Gusion", "Zilong", "Alucard", "Akai", "Hayabusa"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alucard.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/akai.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Miya", "Layla", "Odette", "Gord", "Lesley"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/gord.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lesley.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Lolita",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/12/lolita.jpg",
+        "role": "Support/Tank",
+        "lane": "Roam",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Chou", "Akai", "Ruby", "Franco", "Edith"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/akai.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/ruby.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/edith.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Kadita", "Miya", "Nana", "Layla", "Moskov"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/kadita.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/nana.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Eudora",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Kagura", "Sun", "Hayabusa", "Karina", "Franco"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/kagura.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karina.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Alice", "Miya", "Natalia", "Moskov", "Clint"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/alice.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/clint.png"
+            ]
+        }
+    },
+    {
+        "name": "Franco",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/franco.png",
+        "role": "Tank",
+        "lane": "Roam",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Chou", "Freya", "Valir", "Martis", "Minsitthar"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/freya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/martis.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Eudora", "Layla", "Clint", "Miya", "Moskov"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/clint.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Nana",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/nana.png",
+        "role": "Mage/Support",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Silvanna", "Chou", "Lancelot", "Hayabusa", "Sun"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/silvanna.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lancelot.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Zilong", "Layla", "Gord", "Natalia", "Miya"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/gord.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Nolan",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/09/nolan.jpg",
+        "role": "Assassin",
+        "lane": "Jungle",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Phoveus", "Khufra", "Franco", "Minsitthar", "Gatotkaca"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/phoveus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/khufra.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/gatotkaca.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Novaria", "Yin", "Badang", "Hanabi", "Silvanna"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/04/Novaria.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yin.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/badang.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hanabi.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/silvanna.png"
+            ]
+        }
+    },
+    {
+        "name": "Cecilion",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/cecilion.jpg",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Lunox", "Chou", "Yin", "Ling", "X.Borg"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/lunox.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yin.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/ling.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/x.borg_.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Masha", "Kimmy", "Carmilla", "Valir", "Layla"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/masha.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kimmy.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/carmilla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Faramis",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/12/faramis.jpg",
+        "role": "Support/Mage",
+        "lane": "Roam",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["X.Borg", "Lylia", "Gusion", "Wanwan", "Pharsa"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/xborg.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lylia.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/wanwan.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/pharsa.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Kimmy", "Guinevere", "Kaja", "Odette", "Harley"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/kimmy.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/guinevere.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kaja.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/harley.png"
+            ]
+        }
+    },
+    {
+        "name": "Beatrix",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/12/beatrix.jpg",
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Benedetta", "Paquito", "Gusion", "Franco", "Hayabusa"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/benedetta.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/paquito.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Mathilda", "Brody", "Luo Yi", "Layla", "Popol"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/mathilda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/brody.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/luoyi.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/popol.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Harith",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/harith.png",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Minsitthar", "Esmeralda", "Kaja", "Franco", "Phoveus"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/esmeralda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kaja.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/phoveus.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Kimmy", "Thamuz", "Selena", "Moskov", "Martis"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/kimmy.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/thamuz.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/selena.png",
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/martis.png"
+            ]
+        }
+    },
+    {
+        "name": "Aulus",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/aulus.png",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Phoveus", "Masha", "Jawhead", "Valir", "Wanwan"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/phoveus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/masha.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/jawhead.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/wanwan.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Yve", "Mathilda", "Barats", "Yu Zhong", "Esmeralda"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/yve.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/mathilda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/barats.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yuzhong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/esmeralda.png"
+            ]
+        }
+    },
+    {
+        "name": "Yin",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/yin.png",
+        "role": "Fighter/Assassin",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Thamuz", "Sun", "Argus", "Jawhead", "Valir"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/thamuz.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/argus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/jawhead.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Natan", "Valentina", "Vale", "Brody", "Yu Zhong"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/natan.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/valentina.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/vale.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/brody.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yuzhong.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Guinevere",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/guinevere.png",
+        "role": "Fighter",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Selena", "Wanwan", "Diggie", "Valir", "Fanny"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/selena.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/wanwan.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/diggie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Vale", "Lesley", "Badang", "Lunox", "Valir"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/vale.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lesley.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/badang.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lunox.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png"
+            ]
+        }
+    },
+    {
+        "name": "Vale",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/vale.png",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Chou", "Helcurt", "Harley", "Lancelot", "Fanny"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/helcurt.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/harley.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lancelot.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Martis", "Hanabi", "Change", "Lesley", "Zhask"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/martis.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hanabi.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/change.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lesley.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zhask.png"
+            ]
+        }
+    },
+    {
+        "name": "Hylos",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/hylos.png",
+        "role": "Tank",
+        "lane": "Roaming/EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Karrie", "Valir", "Lesley", "Kimmy", "Baxia"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lesley.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kimmy.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/baxia.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Fanny", "Natalia", "Odette", "Eudora", "Sun"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png"
+            ]
+        }
+    },
+    {
+        "name": "Karrie",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png",
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Hayabusa", "Karina", "Chou", "Lolita", "Natalia"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karina.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lolita.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Miya", "Uranus", "Gord", "Tigreal", "Layla"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/uranus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/gord.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/tigreal.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Uranus",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/uranus.png",
+        "role": "Tank",
+        "lane": "Roam",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Karrie", "Odette", "Dyrroth", "Baxia", "Valir"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/dyrroth.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/baxia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Natalia", "Saber", "Hayabusa", "Sun", "Vexana"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/vexana.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Estes",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/estes.png",
+        "role": "Support",
+        "lane": "Roam",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Freya", "Luo Yi", "Baxia", "Fanny", "Eudora"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/freya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/luoyi.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/baxia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Rafaela", "Cici", "Leomord", "Alpha", "Layla"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/rafaela.png",
+                "https://mlcounter.com/wp-content/uploads/2023/11/cici.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/leomord.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alpha.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Ruby",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/ruby.png",
+        "role": "Fighter/Tank",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["X.Borg", "Yin", "Phoveus", "Valir", "Baxia"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/xborg.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yin.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/phoveus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/baxia.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Saber", "Sun", "Fanny", "Chou", "Zilong"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Claude",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/claude.png",
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Popol", "Hayabusa", "Selena", "Fanny", "Natalia"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/popol.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/selena.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Tigreal", "Akai", "Hylos", "Miya", "Karrie"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/tigreal.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/akai.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hylos.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png"
+            ]
+        }
+    },
+    {
+        "name": "Hanabi",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/hanabi.png",
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Natalia", "Fanny", "Hayabusa", "Nolan", "Karina"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2023/09/nolan.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karina.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Minotaur", "Layla", "Akai", "Johnson", "Chou"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/minotaur.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/akai.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/johnson.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png"
+            ]
+        }
+    },
+    {
+        "name": "Jawhead",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/jawhead.png",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Kagura", "Sun", "Fanny", "Martis", "Valir"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/kagura.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/martis.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Odette", "Zhask", "Roger", "Natalia", "Aurora"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zhask.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/roger.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2024/02/aurora.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Natalia",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+        "role": "Assassin",
+        "lane": "Jungle",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Saber", "Jawhead", "Hayabusa", "Khufra", "Rafaela"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/jawhead.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/khufra.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/rafaela.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Eudora", "Layla", "Gord", "Miya", "Yi Sun-shin"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/gord.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yisunshin.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Rafaela",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/rafaela.png",
+        "role": "Support",
+        "lane": "Roam",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Karina", "Saber", "Hayabusa", "Natalia", "Moskov"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/karina.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Alice", "Cyclops", "Sun", "Nana", "Bane"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/alice.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/cyclops.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/nana.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/bane.png"
+            ]
+        }
+    },
+    {
+        "name": "Alice",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/alice.png",
+        "role": "Mage/Tank",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Chou", "Hanabi", "Aldous", "Harley", "Kaja"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hanabi.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/aldous.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/harley.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kaja.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Karrie", "Sun", "Layla", "Natalia", "Aurora"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2024/02/aurora.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Xavier",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/Xavier.jpg",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Helcurt", "Fanny", "Chou", "Gusion", "Lancelot"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/helcurt.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lancelot.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Melissa", "Yve", "Yin", "Mathilda", "Natan"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/melissa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yve.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yin.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/mathilda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natan.png"
+            ]
+        }
+    },
+    {
+        "name": "Yu Zhong",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/yuzhong.jpg",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Karrie", "Dyrroth", "Moskov", "Thamuz", "Valentina"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/dyrroth.png",
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/thamuz.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/valentina.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Kimmy", "Diggie", "Atlas", "Natalia", "Wanwan"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/kimmy.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/diggie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/atlas.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/wanwan.png"
+            ]
+        }
+    },
+    {
+        "name": "Ling",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/ling.png",
+        "role": "Assassin",
+        "lane": "Jungle",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Valir", "Khufra", "Akai", "Chou", "Gusion"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/khufra.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/akai.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Wanwan", "Granger", "Kagura", "Layla", "Hayabusa"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/wanwan.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/granger.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kagura.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png"
+            ]
+        }
+    },
+    {
+        "name": "Minotaur",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/minotaur.png",
+        "role": "Tank/Support",
+        "lane": "Roam",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Freya", "Moskov", "Aurora", "Nana", "Alpha"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/freya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg",
+                "https://mlcounter.com/wp-content/uploads/2024/02/aurora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/nana.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alpha.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Zilong", "Saber", "Miya", "Sun", "Karina"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karina.png"
+            ]
+        }
+    },
+    {
+        "name": "Minsitthar",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Martis", "Yin", "Grock", "Akai", "Natalia"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/martis.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yin.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/grock.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/akai.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Aurora", "Layla", "Miya", "Tigreal", "Cyclops"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2024/02/aurora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/tigreal.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/cyclops.png"
+            ]
+        }
+    },
+    {
+        "name": "Akai",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/akai.png",
+        "role": "Tank",
+        "lane": "Roam/Jungle",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Diggie", "Odette", "Valir", "Valentina", "Karrie"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/diggie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/valentina.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Gord", "Alice", "Nana", "Clint", "Zilong"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/gord.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alice.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/nana.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/clint.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg"
+            ]
+        }
+    },
+    {
+        "name": "X.Borg",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/12/xborg.jpg",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Lunox", "Chou", "Wanwan", "Natalia"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/lunox.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/esmeralda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/wanwan.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Lesley"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/lylia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/granger.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/khufra.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kimmy.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lesley.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Paquito",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/paquito.png",
+        "role": "Fighter/Assassin",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Argus", "Phoveus", "Khufra", "Sun", "Minsitthar"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/argus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/phoveus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/khufra.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Layla", "Khaleed", "Luo Yi", "Popol", "Badang"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/khaleed.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/luoyi.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/popol.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/badang.png"
+            ]
+        }
+    },
+    {
+        "name": "Ixia",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/06/Ixia.jpg",
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Lolita", "Karrie", "Moskov", "Hanabi", "Claude"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/lolita.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png",
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hanabi.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/claude.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Miya", "Layla", "Brody", "Granger", "Irithel"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/brody.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/granger.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/irithel.png"
+            ]
+        }
+    },
+    {
+        "name": "Natan",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/natan.png",
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Hayabusa", "Saber", "Melissa", "Lolita", "Chou"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/melissa.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lolita.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Barats", "Tigreal", "Phoveus", "Gloo", "Yu Zhong"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/barats.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/tigreal.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/phoveus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/gloo.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yuzhong.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Melissa",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/melissa.png",
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Franco", "X.Borg", "Martis", "Yu Zhong", "Hayabusa"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/xborg.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/martis.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yuzhong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Granger", "Leomord", "Clint", "Brody", "Mathilda"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/granger.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/leomord.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/clint.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/brody.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/mathilda.png"
+            ]
+        }
+    },
+    {
+        "name": "Hanzo",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/hanzo.png",
+        "role": "Assassin",
+        "lane": "Jungle",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Ling", "Natalia", "Fanny", "Aldous", "Helcurt"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/ling.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/aldous.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/helcurt.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Gord", "Pharsa", "Hanabi", "Layla", "Karrie"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/gord.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/pharsa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hanabi.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png"
+            ]
+        }
+    },
+    {
+        "name": "Leomord",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/12/leomord.jpg",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Jawhead", "Chou", "Alpha", "Minsitthar", "Melissa"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/jawhead.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alpha.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/melissa.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Martis", "Layla", "Pharsa"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/thamuz.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hanabi.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/martis.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/pharsa.png"
+            ]
+        }
+    },
+    {
+        "name": "Aldous",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/aldous.png",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Akai", "Melissa", "Chou", "Kadita", "Kaja"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/akai.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/melissa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kadita.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kaja.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Natalia", "Fanny", "Layla", "Pharsa", "Gord"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/pharsa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/gord.png"
+            ]
+        }
+    },
+    {
+        "name": "Zhask",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/zhask.png",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Saber", "Natalia", "Fanny", "Hayabusa", "Chou"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Layla", "Vexana", "Odette", "Nana", "Gord"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/vexana.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/nana.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/gord.png"
+            ]
+        }
+    },
+    {
+        "name": "Grock",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/grock.png",
+        "role": "Tank/Fighter",
+        "lane": "Roaming/EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Hylos", "X.Borg", "Harley", "Karrie", "Dyrroth"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/hylos.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/xborg.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/harley.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/dyrroth.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Fanny", "Layla", "Franco", "Natalia", "Cyclops"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/cyclops.png"
+            ]
+        }
+    },
+    {
+        "name": "Roger",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/roger.png",
+        "role": "Fighter/Marksman",
+        "lane": "Jungling",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Alucard", "Aurora", "Jawhead", "Martis", "Silvanna"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/alucard.png",
+                "https://mlcounter.com/wp-content/uploads/2024/02/aurora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/jawhead.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/martis.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/silvanna.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Layla", " LapuLapu", "Sun", "Zilong", "Yi Sun-shin"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lapulapu.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yisunshin.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Cyclops",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/cyclops.png",
+        "role": "Mage",
+        "lane": "Side",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Ling", "Alice", "Lancelot", "Natalia", "Harley"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/ling.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alice.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lancelot.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/harley.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Miya", "Layla", "Bane", "Fanny", "Clint"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/bane.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/clint.png"
+            ]
+        }
+    },
+    {
+        "name": "Alpha",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/alpha.png",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Freya", "Thamuz", "Valir", "Baxia", "Minsitthar"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/freya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/thamuz.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/baxia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Miya", "Sun", "Chou", "Layla", "Zilong"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Gord",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/gord.png",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Dyrroth", "Lolita", "Yin", "Gusion", "Hayabusa"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/dyrroth.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lolita.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yin.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Layla", "Miya", "Johnson", "Yve", "Alucard"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/johnson.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yve.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alucard.png"
+            ]
+        }
+    },
+    {
+        "name": "Layla",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Hayabusa", "Saber", "Alucard", "Fanny", "Natalia"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alucard.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Yi Sun-shin", "Balmond", "Vale", "Nana", "Rafaela"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/yisunshin.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/balmond.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/vale.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/nana.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/rafaela.png"
+            ]
+        }
+    },
+    {
+        "name": "Clint",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/clint.png",
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Eudora", "Akai", "Karina", "Fanny", "Freya"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/akai.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karina.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/freya.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Nana", "Miya", "Aurora", "Moskov", "Alpha"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/nana.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2024/02/aurora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alpha.png"
+            ]
+        }
+    },
+    {
+        "name": "Karina",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/karina.png",
+        "role": "Assassin",
+        "lane": "Jungle",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Eudora", "Ruby", "Akai", "Natalia", "Franco"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/ruby.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/akai.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Layla", "Miya", "Nana", "Clint", "Zilong"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/nana.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/clint.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Saber",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+        "role": "Assassin",
+        "lane": "Jungle",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Belerick", "Argus", "Diggie", "Valir", "Hanabi"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/11/belerick.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/argus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/diggie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hanabi.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Miya", "Layla", "Bruno"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/gord.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/nana.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/bruno.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Cici",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/11/cici.jpg",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Ling", "Lancelot", "Saber", "Akai", "Yve"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/ling.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lancelot.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/akai.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yve.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Tigreal", "Gloo", "Badang", "Alpha", "Miya"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/tigreal.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/gloo.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/badang.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alpha.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Novaria",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/04/Novaria.jpg",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Lolita", "Yuzhong", "Natalia", "Ling", "Fanny"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/lolita.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yuzhong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/ling.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Aldous", "Chou", "Lancelot", "Odette", "Miya"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/aldous.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lancelot.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Luo Yi",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/luoyi.jpg",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Natalia", "Hayabusa", "Gusion", "Franco", "Chou"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Carmilla", "Odette", "Hanabi", "Lylia", "Zilong"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/carmilla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hanabi.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lylia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Argus",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/argus.png",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Saber", "Eudora", "Akai", "Natalia", "Kaja"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/akai.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kaja.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Zilong", "Martis", "Balmond", "Hanabi", "Sun"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/martis.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/balmond.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hanabi.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png"
+            ]
+        }
+    },
+    {
+        "name": "Phoveus",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/phoveus.png",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Layla", "Baxia", "Yve", "Esmeralda", "Minsitthar"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/baxia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yve.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/esmeralda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Joy", "Wanwan", "Gusion", "Arlott", "Saber"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/10/joy.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/wanwan.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/10/Arlott.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Brody",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/brody.png",
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Ling", "Hayabusa", "Karina", "Saber", "Eudora"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/ling.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karina.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Layla", "Sun", "Freya", "Wanwan", "Carmilla"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/freya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/wanwan.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/carmilla.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Masha",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/masha.png",
+        "role": "Fighter/Tank",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Belerick", "Thamuz", "Sun", "Lunox", "Dyrroth"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/11/belerick.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/thamuz.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lunox.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/dyrroth.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Irithel", "Zilong", "Eudora", "Layla"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/irithel.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/harith.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Khaleed",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/khaleed.jpg",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Atlas", "Yu Zhong", "Kimmy", "Helcurt", "Cecilion"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/atlas.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yuzhong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kimmy.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/helcurt.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/cecilion.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Chou", "Popol", "Silvanna", "Ling", "Hanzo"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/popol.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/silvanna.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/ling.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hanzo.png"
+            ]
+        }
+    },
+    {
+        "name": "Floryn",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/05/floryn.png",
+        "role": "Support",
+        "lane": "Roam",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Eudora", "Kagura", "Paquito", "X.Borg", "Natan"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kagura.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/paquito.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/xborg.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natan.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Luo Yi", "Cecilion", "Carmilla", "Popol", "Silvanna"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/luoyi.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/cecilion.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/carmilla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/popol.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/silvanna.png"
+            ]
+        }
+    },
+    {
+        "name": "Edith",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/12/edith.jpg",
+        "role": "Tank/Marksman",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Aamon", "Thamuz", "Beatrix", "Minsitthar", "Wanwan"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/aamon.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/thamuz.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/beatrix.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/wanwan.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Popol", "Mathilda", "Paquito", "Phoveus", "Benedetta"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/popol.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/mathilda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/paquito.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/phoveus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/benedetta.png"
+            ]
+        }
+    },
+    {
+        "name": "Aurora",
+        "image": "https://mlcounter.com/wp-content/uploads/2024/02/aurora.jpg",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Guinevere", "Natalia", "Hayabusa", "Chou", "Kagura"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/guinevere.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kagura.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Moskov", "Miya", "Layla", "Yisunshin", "Tigreal"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yisunshin.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/tigreal.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Thamuz",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/thamuz.png",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["X.Borg", " Aldous", "Valir", "Baxia", "Cici"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/xborg.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/aldous.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/baxia.png",
+                "https://mlcounter.com/wp-content/uploads/2023/11/cici.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Lesley", "Odette", "Natalia", "Moskov", "Johnson"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/lesley.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/johnson.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Kaja",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/kaja.png",
+        "role": "Fighter/Support",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Helcurt", "Grock", "Akai", "Martis", "Gusion"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/helcurt.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/grock.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/akai.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/martis.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Natalia", "Fanny", "Harley", "Chou", "Aurora"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/harley.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2024/02/aurora.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Odette",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Guinevere", "Chou", "Kagura", "Fanny", "Franco"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/guinevere.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kagura.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Cyclops", "Miya", "Layla", "Irithel", "Kimmy"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/cyclops.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/irithel.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kimmy.png"
+            ]
+        }
+    },
+    {
+        "name": "Helcurt",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/helcurt.png",
+        "role": "Assassin",
+        "lane": "Jungle",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Argus", "Hayabusa", "Karina", "Minsitthar", "Natalia"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/argus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karina.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Odette", "Cyclops", "Zhask", "Layla", "Miya"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/cyclops.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zhask.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Gusion",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg",
+        "role": "Assassin",
+        "lane": "Jungle",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Minsitthar", "Lolita", "Ling", "Khufra", "Sun"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lolita.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/ling.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/khufra.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Pharsa", "Odette", "Moskov", "Lesley"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/zhask.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/pharsa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lesley.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Irithel",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/irithel.png",
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Natalia", "Freya", "Helcurt", "Kagura", "Hayabusa"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/freya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/helcurt.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kagura.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Miya", "Moskov", "Layla", "Alucard", "Gord"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alucard.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/gord.png"
+            ]
+        }
+    },
+    {
+        "name": "Vexana",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/12/vexana.jpg",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Lylia", "Chou", "Natalia", "Kagura", "Kadita"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/lylia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kagura.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kadita.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Layla", "Clint", "Johnson", "Sun", "Miya"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/clint.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/johnson.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Johnson",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/12/johnson.jpg",
+        "role": "Tank",
+        "lane": "Roam",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Esmeralda", "Zhask", "Jawhead", "Diggie", "Grock"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/esmeralda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zhask.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/jawhead.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/diggie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/grock.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Miya", "Layla", "Granger", "Lesley", "Claude"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/granger.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lesley.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/claude.png"
+            ]
+        }
+    },
+    {
+        "name": "Sun",
+        "image": "https://mlcounter.com/wp-content/uploads/2024/03/sun.jpg",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["X.Borg", "Ruby", "Silvanna", "Aulus", "Valir"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/xborg.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/ruby.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/silvanna.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/aulus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Clint", "Miya", "Natalia", "Layla", "Hayabusa"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/clint.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png"
+            ]
+        }
+    },
+    {
+        "name": "Freya",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/freya.jpg",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Masha", "Melissa", "Esmeralda", "Minsitthar", "Phoveus"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/masha.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/melissa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/esmeralda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minsitthar.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/phoveus.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Odette", "Irithel", "Alpha", "Sun", "Zilong"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/irithel.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alpha.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Fanny",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+        "role": "Assassin",
+        "lane": "Jungle",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Phoveus", "Chou", "Eudora", "Franco", "Akai"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/phoveus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/akai.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Layla", "Karina", "Estes", "Natalia", "Bruno"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karina.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/estes.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/bruno.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Bruno",
+        "image": "https://mlcounter.com/wp-content/uploads/2023/12/bruno.jpg",
+        "role": "Marksman",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Moskov", "Alpha", "Freya", "Karrie", "Karina"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alpha.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/freya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karrie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/karina.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Zilong", "Layla", "Yi Sun-shin", "Kagura", "Diggie"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yisunshin.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kagura.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/diggie.png"
+            ]
+        }
+    },
+    {
+        "name": "Balmond",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/balmond.png",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Dyrroth", "Lunox", "Moskov", "Alpha", "Freya"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/dyrroth.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lunox.png",
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alpha.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/freya.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Layla"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alice.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/cyclops.png"
+            ]
+        }
+    },
+    {
+        "name": "Kimmy",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/kimmy.png",
+        "role": "Marksman/Mage",
+        "lane": "Gold",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Chou", "Aldous", "Hayabusa", "Lancelot", "Lolita"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/aldous.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lancelot.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lolita.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Valir", "Minotaur", "Moskov", "Vale", "Hylos"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minotaur.png",
+                "https://mlcounter.com/wp-content/uploads/2024/02/moskov.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/vale.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hylos.png"
+            ]
+        }
+    },
+    {
+        "name": "Baxia",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/baxia.png",
+        "role": "Tank",
+        "lane": "Roam/Jungle",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Gusion", "Grock", "Lesley", "Harley", "Kagura"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/grock.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lesley.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/harley.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kagura.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Eudora", "Layla", "Saber", "Alice", "Miya"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alice.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Lunox",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/lunox.png",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Helcurt", " Claude", "Lancelot", "Gusion", "Leomord"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/helcurt.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/claude.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lancelot.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/gusion.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/leomord.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": [" Aldous", "Hanabi", "Lesley", "Alice", "Odette"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/aldous.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hanabi.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/lesley.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alice.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png"
+            ]
+        }
+    },
+    {
+        "name": "Alucard",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/alucard.png",
+        "role": "Fighter",
+        "lane": "Jungle",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Eudora", "Saber", "Fanny", "Zhask", "Freya"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zhask.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/freya.jpg"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Layla", "Zilong", "Yi Sun-shin", "Sun", "Lancelot"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zilong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yisunshin.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/sun.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/lancelot.png"
+            ]
+        }
+    },
+    {
+        "name": "Selena",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/selena.png",
+        "role": "Assassin/Mage",
+        "lane": "Jungle",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Wanwan", "Saber", "Benedetta", "Diggie", "Valir"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/wanwan.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/benedetta.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/diggie.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/valir.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Lesley", " Claude", "Gord", "Layla", "Miya"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/lesley.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/claude.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/gord.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Lancelot",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/lancelot.png",
+        "role": "Assassin",
+        "lane": "Jungle",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Alucard", "Chou", "Saber", "Argus", "Yin"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/alucard.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/chou.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/argus.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yin.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Odette", "Cyclops", "Natalia", "Eudora", "Layla"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/cyclops.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Pharsa",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/pharsa.png",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Franco", "Fanny", "Jawhead", "Harley", "Helcurt"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/fanny.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/jawhead.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/harley.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/helcurt.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Eudora", "Zhask", "Irithel", "Minotaur", "Layla"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/zhask.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/irithel.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/minotaur.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg"
+            ]
+        }
+    },
+    {
+        "name": "Valir",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/valir.png",
+        "role": "Mage",
+        "lane": "Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Lancelot", "Kaja", "Akai", "Franco", "Hayabusa"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/lancelot.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/kaja.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/akai.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/franco.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Zhask", "Harley", "Odette", "Alucard", "Cyclops"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/zhask.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/harley.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/odette.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alucard.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/cyclops.png"
+            ]
+        }
+    },
+    {
+        "name": "Harley",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/harley.png",
+        "role": "Mage/Assassin",
+        "lane": "Jungle/Mid",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Jawhead", "Hayabusa", "Saber", "Eudora", "Vale"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/jawhead.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/hayabusa.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/eudora.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/vale.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Layla", "Nana", "Alice", "Johnson", "Gatotkaca"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/nana.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alice.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/johnson.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/gatotkaca.png"
+            ]
+        }
+    },
+    {
+        "name": " Lapu Lapu",
+        "image": "https://mlcounter.com/wp-content/uploads/2022/04/lapulapu.png",
+        "role": "Fighter",
+        "lane": "EXP",
+        "lore": "placeholder",
+        "counterItems": "placeholder",
+        "strongAgainst": {
+            "name": ["Esmeralda", "Yu Zhong", "Arlott", " Aldous", "Alpha"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/esmeralda.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/yuzhong.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/10/Arlott.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/aldous.png",
+                "https://mlcounter.com/wp-content/uploads/2022/04/alpha.png"
+            ]
+        },
+        "weakAgainst": {
+            "name": ["Natalia", "Layla", "Saber", "Miya", "Estes"],
+            "image": [
+                "https://mlcounter.com/wp-content/uploads/2022/04/natalia.png",
+                "https://mlcounter.com/wp-content/uploads/2023/12/layla.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/saber.jpg",
+                "https://mlcounter.com/wp-content/uploads/2023/12/miya.jpg",
+                "https://mlcounter.com/wp-content/uploads/2022/04/estes.png"
+            ]
+        }
+    }
+]
